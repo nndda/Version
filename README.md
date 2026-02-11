@@ -1,4 +1,7 @@
-# Version
+<h1>
+    <img src="icon.svg" alt="" height="38">&nbsp;
+    Version
+</h1>
 
 <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/%E2%89%A54.4-white?style=flat-square&logo=godotengine&logoColor=white&label=Godot&labelColor=%232f5069&color=%233e4c57" alt="Godot 4.4 or above" height="20"></a>
 <a href="https://github.com/nndda/Version/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/nndda/Version/tests.yml?branch=main&event=push&style=flat-square&label=CI&labelColor=%23252b30&color=%23306b3d" alt="Tests status" height="20"></a>
@@ -34,6 +37,7 @@ More information available through the built-in documentation. Press <kbd>f1</kb
 
 ## License
 
-Licensed under MIT license (see [LICENSE](LICENSE)).
+- Version is licensed under [MIT](LICENSE).
+- [Icon](icon.svg) from [@fontawesome](https://fontawesome.com) (recolored), is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright &copy; 2026 nnda
