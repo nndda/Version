@@ -1,5 +1,8 @@
 # Version
 
+<a href="https://godotengine.org/"><img src="https://img.shields.io/badge/%E2%89%A54.4-white?style=flat-square&logo=godotengine&logoColor=white&label=Godot&labelColor=%232f5069&color=%233e4c57" alt="Godot 4.4 or above" height="20"></a>
+<a href="https://github.com/nndda/Version/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/nndda/Version/tests.yml?branch=main&event=push&style=flat-square&label=CI&labelColor=%23252b30&color=%23306b3d" alt="Tests status" height="20"></a>
+
 Tiny Semantic Version parser and utility for Godot 4.
 
 ## Installation
