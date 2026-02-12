@@ -2,5 +2,6 @@
 * text=auto eol=lf
 
 # Only include the addons folder when downloading from the Godot Asset Library.
-/**                     export-ignore
-/addons                 !export-ignore
+/**        export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
