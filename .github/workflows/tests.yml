@@ -30,7 +30,6 @@ jobs:
           - ubuntu-latest
           # - windows-latest
         godot-version: 
-          - 4.4
           - 4.5
           - 4.6
 
